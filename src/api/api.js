@@ -1,4 +1,4 @@
-const BASE_URL = 'http://10.58.0.144:8000';
+const BASE_URL = 'http://18.235.1.35:8000';
 
 function getToken() {
   return localStorage.getItem('token');
