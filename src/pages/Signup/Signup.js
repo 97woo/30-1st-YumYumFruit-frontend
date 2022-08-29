@@ -1,10 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-
-
-
 import { API } from '../../config.js';
-
 import { SIGNUP_INPUT_DATA } from './SignupData';
 import SinupInputList from './SignupInputList';
 import JoinButton from './Button/JoinButton';
